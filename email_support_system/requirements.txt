@@ -1,0 +1,5 @@
+flask
+imaplib2
+pysnmp
+email-validator
+gunicorn
